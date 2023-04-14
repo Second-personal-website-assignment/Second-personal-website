@@ -1,0 +1,34 @@
+
+body{border: solid;height: 1750px;
+    
+}
+.cb{
+    min-height: fit-content;max-width: 100%;float: left;float: left;font-size: 30px;
+
+
+      
+
+
+nav{
+    font-size:30px;color: green;text-align: right;margin-right: 10px;
+}
+
+
+
+}
+    @media (any-hover: hover) {
+        a:hover {
+          background: yellow;
+        }
+      }
+.flexbox-container{
+  display: flex; margin: 10px;word-wrap: break-word;
+  font-size: 25px;margin-block-end: auto;gap: 20px;color: rgb(79, 20, 241);text-align: left;
+}
+
+.flexbox-container2{
+  display: flex; margin: 9px;word-wrap: break-word;
+  font-size: 25px;margin-block-end: auto;gap: 15px;color: rgb(79, 20, 241);text-align: left;
+}
+
+
